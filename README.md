@@ -18,7 +18,7 @@ I enjoy learning by building, debugging, and continuously improving real-world p
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtNWN5b21lenk4Ynhxb2MzY3JrZDg1ZnYyMjF6dzhpbzFkaHZzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 ### 🌟 Talking about Personal Stuffs...
