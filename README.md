@@ -38,3 +38,34 @@ I enjoy learning by building, debugging, and continuously improving real-world p
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="android" width="40" height="40"/> 
+  </a> 
+  
