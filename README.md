@@ -77,8 +77,8 @@ I enjoy learning by building, debugging, and continuously improving real-world p
 
 <br>
 
-[![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerCode-Dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerCode-Dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerCode-Dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerCode-Dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <hr>
