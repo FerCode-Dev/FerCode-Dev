@@ -69,3 +69,16 @@ I enjoy learning by building, debugging, and continuously improving real-world p
     <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="android" width="40" height="40"/> 
   </a> 
   
+<br>
+<hr>
+<br>
+
+<h1>GitHub Stats! 📊</h1>
+
+<br>
+
+[![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerCode-Dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerCode-Dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<hr>
